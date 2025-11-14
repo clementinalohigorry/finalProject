@@ -1,0 +1,35 @@
+h1 {
+	color:5BC0BE;
+}
+body{
+	background-color: #94928d;
+	background-repeat: no-repeat;
+	background-position: top right;
+}
+ul{
+	list-style-type: none;
+	background-color:#5BC0BE ;
+	overflow: hidden;
+}
+ul li{
+	float: left;
+	text-align: center;
+
+}
+ul li a{
+	text-decoration: none;
+	padding:10px;
+		display: block;
+	width: 100px;
+}
+
+li a:hover {
+	background-color: #000;
+}
+.active{
+	font-weight: bold;
+	border-bottom:solid 2px #566 ;
+}
+img{
+	border-radius: 70px;
+}
