@@ -1,8 +1,8 @@
 h1 {
-	color:5BC0BE;
+	color:#000;
 }
 body{
-	background-color: #94928d;
+	background-color: #fcfcfc;
 	background-repeat: no-repeat;
 	background-position: top right;
 }
@@ -21,7 +21,7 @@ ul li a{
 	padding:10px;
 		display: block;
 	width: 100px;
-}
+} 
 
 li a:hover {
 	background-color: #000;
@@ -30,6 +30,10 @@ li a:hover {
 	font-weight: bold;
 	border-bottom:solid 2px #566 ;
 }
-img{
-	border-radius: 70px;
+.roundedImg{
+	border-radius: 100px;
+}
+
+table{
+	background-color: #faf9f7;
 }
